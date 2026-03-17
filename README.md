@@ -15,15 +15,3 @@
   <img align="center" alt="Gustavo-FIGMA" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
 </div> <br>
-
-
-<div >
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavostorion&show_icons=true&theme=dark">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark">
-
-</div>
-
-
-
-  
-
